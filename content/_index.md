@@ -19,7 +19,7 @@ chapter: false
 
 &emsp; **Phone Number:** 0862500121 
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** tuanhuynh9251@gmail.com
 
 &emsp; **University:** Ho Chi Minh City University of Technology and Education
 
@@ -31,9 +31,9 @@ chapter: false
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
+&emsp; **Internship Duration:** From 21/04/2026 to 12/07/2026
 
-![Your profile picture](/images/avatar.png)
+<img src="/images/avatar.png" alt="Profile picture" style="width: 600px; border-radius: 10px;" />
 
 ### Report Content
 
