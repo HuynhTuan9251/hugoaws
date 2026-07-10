@@ -58,11 +58,11 @@ The project is a perfect intersection of Software Engineering and Cloud Architec
 - *Month 3 (Weeks 9-12)*: Integrate GuardDuty onto the Threat Map. Use MongoDB to create an Alert Management feature (changing incident statuses). Embed QuickSight. Final report.
 
 ### 6. Budget Estimation
-The project was deployed entirely within the **$200 AWS Free Tier Credit** provided by the internship program. Below is the actual cost breakdown:
+The project was deployed entirely within the **$200 AWS Free Tier Credit** provided by the internship program. To save costs, the EC2 Instance was **started only when needed** and **stopped when not in use**. Below is the actual cost breakdown:
 
 | Service | Estimated Cost | Notes |
 |---------|---------------|-------|
-| **Amazon EC2** (t3.micro) | ~$15.00 | Running continuously for 12 weeks (~2,016 hours × $0.0104/hour). Covered by Free Tier 750 hours/month for first 2 months, only charged for month 3. |
+| **Amazon EC2** (t3.micro) | ~$8.00 | Start/stop on demand (~770 actual hours × $0.0104/hour). First 750 hours/month free (Free Tier), excess charged. |
 | **Amazon S3** (Data Lake) | ~$2.50 | Storing ~50GB log data ($0.023/GB/month) + PUT/GET requests (~$0.50) |
 | **Amazon Kinesis Firehose** | ~$5.00 | Processing ~100GB data ingestion ($0.029/GB, first 500MB free) |
 | **AWS Lambda** (my-log-filter) | ~$0.50 | ~500,000 invocations × $0.20/1M requests. First 1M requests free per month |
@@ -70,13 +70,13 @@ The project was deployed entirely within the **$200 AWS Free Tier Credit** provi
 | **Amazon QuickSight** | ~$24.00 | 1 Author license ($24/month). Only subscribed for the final month to create demo Dashboard |
 | **Amazon GuardDuty** | ~$8.00 | VPC Flow Logs analysis (~$1.15/GB, first 500MB free) + CloudTrail Events |
 | **AWS CloudTrail** | ~$2.00 | 1 Trail free. Costs from S3 storage for trail logs |
-| **VPC Flow Logs** | $0.00 | Free (costs included in S3 storage above) |
-| **MongoDB** (Local) | $0.00 | Running locally, not using Atlas cloud |
-| **Web App** (Localhost) | $0.00 | Running locally (React + Node.js), not deployed to hosting |
+| **VPC Flow Logs** | ~$3.00 | Logs pushed to CloudWatch Logs ($0.50/GB ingested) + S3 storage. Estimated ~6GB logs over 12 weeks |
+| **MongoDB Atlas** (M0 Free Tier) | $0.00 | Using the forever-free M0 cluster (512MB storage, sufficient for User, Alert, TrafficLog data) |
+| **Web App Hosting** (on EC2) | $0.00 | Web App deployed directly on the EC2 Instance above, no additional hosting cost |
 | | | |
-| **TOTAL** | **~$58.50** | Remaining **~$141.50** from $200 Credit |
+| **TOTAL** | **~$54.50** | Remaining **~$145.50** from $200 Credit |
 
-> **Conclusion:** By adopting a Serverless architecture (Lambda, Athena, Firehose) instead of running 24/7 servers (RDS, Elasticsearch), the total cost is only **~29.25%** of the $200 Credit. The remaining balance can be used for future system expansion or experimenting with additional AWS services.
+> **Conclusion:** By using a **start/stop EC2 strategy** (only running when needed for demos or log collection) and adopting Serverless architecture (Lambda, Athena, Firehose), the total cost is only **~27.25%** of the $200 Credit. MongoDB Atlas M0 is completely free and sufficient for application data storage.
 
 ### 7. Risk Assessment
 *Risk Matrix*
