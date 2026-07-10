@@ -13,15 +13,17 @@ chapter: false
 {{% /notice %}}
 
 ### Student Information:
-&emsp; **Full Name:** Nguyen Van A
+&emsp; **Full Name:** Huỳnh Tuấn
 
-&emsp; **Phone Number:** 0989888999 
+&emsp; **Student ID (MSSV):** 2280603548
+
+&emsp; **Phone Number:** 0862500121 
 
 &emsp; **Email:** Anguyenvan@gmail.com
 
 &emsp; **University:** Ho Chi Minh City University of Technology and Education
 
-&emsp; **Major:** Information Technology
+&emsp; **Major:** Software Engineer
 
 &emsp; **Class:** AWS082025
 
