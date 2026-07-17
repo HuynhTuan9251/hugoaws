@@ -1,9 +1,9 @@
 ---
 title: "Worklog Tuần 4"
 date: 2024-01-01
-weight: 31
+weight: 4
 chapter: false
-pre: " <b> 1.4.4. </b> "
+pre: " <b> 1.4. </b> "
 ---
 
 ### Mục tiêu tuần 4:

@@ -1,9 +1,9 @@
 ---
 title: "Worklog Week 11"
 date: 2024-01-01
-weight: 101
+weight: 11
 chapter: false
-pre: " <b> 1.11.11. </b> "
+pre: " <b> 1.11. </b> "
 ---
 
 ### Goals for week 11:

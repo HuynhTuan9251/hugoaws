@@ -1,9 +1,9 @@
 ---
 title: "Worklog Week 1"
 date: 2024-01-01
-weight: 01
+weight: 1
 chapter: false
-pre: " <b> 1.1.1. </b> "
+pre: " <b> 1.1. </b> "
 ---
 
 ### Goals for week 1:
