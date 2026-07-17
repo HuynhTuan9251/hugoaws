@@ -6,4 +6,4 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 # Sự kiện đã tham gia
-Dưới đây là danh sách các sự kiện AWS và Workshop tôi đã tham gia trong suốt 12 tuần thực tập.
+Dưới đây là danh sách các sự kiện AWS và Workshop tôi đã tham gia trong suốt 15 tuần thực tập.

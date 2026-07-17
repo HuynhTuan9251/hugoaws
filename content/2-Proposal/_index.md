@@ -52,7 +52,7 @@ The project is a perfect intersection of Software Engineering and Cloud Architec
 4. **UI Development**: Draw Recharts graphs, display the World Map scanning radar at malicious IPs. Embed QuickSight.
 5. **Completion**: End-to-End testing of the entire flow from MongoDB to AWS S3. Write documentation.
 
-### 5. Roadmap & Milestones (12 Weeks)
+### 5. Roadmap & Milestones (15 Weeks)
 - *Month 1 (Weeks 1-4)*: Design the Hybrid architecture, initialize the MERN Stack project, design the DB Schema, and complete JWT Login and RBAC.
 - *Month 2 (Weeks 5-8)*: Build the AWS Data Pipeline (Kinesis -> Lambda -> S3). Node.js calls the AWS SDK to query Athena and populates the Network Traffic table on the Web.
 - *Month 3 (Weeks 9-12)*: Integrate GuardDuty onto the Threat Map. Use MongoDB to create an Alert Management feature (changing incident statuses). Embed QuickSight. Final report.
@@ -70,7 +70,7 @@ The project was deployed entirely within the **$200 AWS Free Tier Credit** provi
 | **Amazon QuickSight** | ~$24.00 | 1 Author license ($24/month). Only subscribed for the final month to create demo Dashboard |
 | **Amazon GuardDuty** | ~$8.00 | VPC Flow Logs analysis (~$1.15/GB, first 500MB free) + CloudTrail Events |
 | **AWS CloudTrail** | ~$2.00 | 1 Trail free. Costs from S3 storage for trail logs |
-| **VPC Flow Logs** | ~$3.00 | Logs pushed to CloudWatch Logs ($0.50/GB ingested) + S3 storage. Estimated ~6GB logs over 12 weeks |
+| **VPC Flow Logs** | ~$3.00 | Logs pushed to CloudWatch Logs ($0.50/GB ingested) + S3 storage. Estimated ~6GB logs over 15 weeks |
 | **MongoDB Atlas** (M0 Free Tier) | $0.00 | Using the forever-free M0 cluster (512MB storage, sufficient for User, Alert, TrafficLog data) |
 | **Web App Hosting** (on EC2) | $0.00 | Web App deployed directly on the EC2 Instance above, no additional hosting cost |
 | | | |

@@ -52,7 +52,7 @@ Dự án là sự giao thoa hoàn hảo giữa kỹ thuật Software Engineering
 4. **Phát triển UI**: Vẽ biểu đồ Recharts, hiển thị Bản đồ thế giới quét radar tại các IP độc hại. Nhúng QuickSight.
 5. **Hoàn thiện**: Kiểm thử End-to-End toàn bộ luồng từ MongoDB đến AWS S3. Viết tài liệu.
 
-### 5. Lộ trình & Mốc triển khai (12 Tuần)
+### 5. Lộ trình & Mốc triển khai (15 Tuần)
 - *Tháng 1 (Tuần 1-4)*: Thiết kế kiến trúc Hybrid, khởi tạo dự án MERN Stack, thiết kế DB Schema, hoàn thiện Login JWT và Phân quyền (RBAC).
 - *Tháng 2 (Tuần 5-8)*: Xây dựng AWS Data Pipeline (Kinesis -> Lambda -> S3). Node.js gọi AWS SDK truy vấn Athena đổ dữ liệu lên bảng Network Traffic ở Web.
 - *Tháng 3 (Tuần 9-12)*: Tích hợp GuardDuty lên Bản đồ Threat Map. Sử dụng MongoDB để tạo tính năng Đổi trạng thái sự cố (Alert Management). Nhúng QuickSight. Báo cáo tổng kết.
@@ -70,7 +70,7 @@ Dự án được triển khai hoàn toàn trong phạm vi **$200 AWS Free Tier 
 | **Amazon QuickSight** | ~$24.00 | 1 Author license ($24/tháng). Chỉ đăng ký 1 tháng cuối để tạo Dashboard demo |
 | **Amazon GuardDuty** | ~$8.00 | Phân tích VPC Flow Logs (~$1.15/GB cho 500MB đầu tiên miễn phí) + CloudTrail Events |
 | **AWS CloudTrail** | ~$2.00 | 1 Trail miễn phí. Chi phí phát sinh từ S3 storage cho trail logs |
-| **VPC Flow Logs** | ~$3.00 | Đẩy log về CloudWatch Logs ($0.50/GB ingested) + S3 storage. Ước tính ~6GB log trong 12 tuần |
+| **VPC Flow Logs** | ~$3.00 | Đẩy log về CloudWatch Logs ($0.50/GB ingested) + S3 storage. Ước tính ~6GB log trong 15 tuần |
 | **MongoDB Atlas** (M0 Free Tier) | $0.00 | Sử dụng cluster M0 miễn phí vĩnh viễn (512MB storage, đủ cho dữ liệu User, Alert, TrafficLog) |
 | **Web App Hosting** (trên EC2) | $0.00 | Web App được deploy trực tiếp trên EC2 Instance ở trên, không tốn thêm chi phí riêng |
 | | | |

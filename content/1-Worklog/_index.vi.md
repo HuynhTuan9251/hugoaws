@@ -7,7 +7,7 @@ pre: " <b> 1. </b> "
 ---
 
 # Nhật ký công việc (Worklog)
-Chương trình thực tập kéo dài **12 tuần** (từ 17/04/2026 đến 30/07/2026). Dưới đây là tóm tắt tiến độ từng tuần:
+Chương trình thực tập kéo dài **15 tuần** (từ 17/04/2026 đến 30/07/2026). Dưới đây là tóm tắt tiến độ từng tuần:
 
 **Tuần 1:** [Làm quen AWS, tạo tài khoản, thực hành EC2](1.1-Week1/)
 
@@ -32,3 +32,10 @@ Chương trình thực tập kéo dài **12 tuần** (từ 17/04/2026 đến 30/
 **Tuần 11:** [Tích hợp AWS SDK vào Backend, chụp ảnh AWS, bắt đầu viết Workshop](1.11-Week11/)
 
 **Tuần 12:** [Hoàn thiện Workshop, Self-evaluation, Feedback, nộp báo cáo](1.12-Week12/)
+
+
+**Tuần 13:** [Đang cập nhật...](1.13-Week13/)
+
+**Tuần 14:** [Đang cập nhật...](1.14-Week14/)
+
+**Tuần 15:** [Đang cập nhật...](1.15-Week15/)

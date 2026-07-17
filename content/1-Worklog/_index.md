@@ -7,7 +7,7 @@ pre: " <b> 1. </b> "
 ---
 
 # Worklog
-The internship program lasted **12 weeks** (from 17/04/2026 to 30/07/2026). Below is a summary of weekly progress:
+The internship program lasted **15 weeks** (from 17/04/2026 to 30/07/2026). Below is a summary of weekly progress:
 
 **Week 1:** [AWS introduction, account creation, EC2 practice](1.1-Week1/)
 
@@ -32,3 +32,10 @@ The internship program lasted **12 weeks** (from 17/04/2026 to 30/07/2026). Belo
 **Week 11:** [Integrate AWS SDK into Backend, capture AWS screenshots, start Workshop](1.11-Week11/)
 
 **Week 12:** [Complete Workshop, Self-evaluation, Feedback, submit report](1.12-Week12/)
+
+
+**Week 13:** [Updating...](1.13-Week13/)
+
+**Week 14:** [Updating...](1.14-Week14/)
+
+**Week 15:** [Updating...](1.15-Week15/)
