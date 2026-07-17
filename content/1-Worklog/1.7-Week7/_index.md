@@ -15,11 +15,11 @@ pre: " <b> 1.7.7. </b> "
 ### Tasks implemented this week:
 | Day | Task | Start Date | End Date | References |
 | --- | --- | --- | --- | --- |
-| Mon | - Code ProtocolPieChart.jsx (protocol distribution pie chart) | 02/06/2026 | 02/06/2026 | Recharts |
-| Tue | - Code AIAnomalyChart.jsx (Forecast vs Actual, anomaly detection) | 03/06/2026 | 03/06/2026 | |
-| Wed | - Code InfraHealth.jsx (CPU/RAM/Disk progress bars) | 04/06/2026 | 04/06/2026 | |
-| Thu | - Code AlertTable.jsx (alert table with status, status change buttons) | 05/06/2026 | 05/06/2026 | |
-| Fri | - Write Blog 2: Serverless Data Querying with Amazon Athena | 06/06/2026 | 06/06/2026 | |
+| Mon | - Code ProtocolPieChart.jsx (protocol distribution pie chart) | 01/06/2026 | 01/06/2026 | Recharts |
+| Tue | - Code AIAnomalyChart.jsx (Forecast vs Actual, anomaly detection) | 02/06/2026 | 02/06/2026 | |
+| Wed | - Code InfraHealth.jsx (CPU/RAM/Disk progress bars) | 03/06/2026 | 03/06/2026 | |
+| Thu | - Code AlertTable.jsx (alert table with status, status change buttons) | 04/06/2026 | 04/06/2026 | |
+| Fri | - Write Blog 2: Serverless Data Querying with Amazon Athena | 05/06/2026 | 05/06/2026 | |
 
 ### Results achieved:
 

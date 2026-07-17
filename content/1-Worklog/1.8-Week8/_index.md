@@ -15,11 +15,11 @@ pre: " <b> 1.8.8. </b> "
 ### Tasks implemented this week:
 | Day | Task | Start Date | End Date | References |
 | --- | --- | --- | --- | --- |
-| Mon | - Code AttackMap.jsx (map showing attack IP locations by geo_location) | 09/06/2026 | 09/06/2026 | |
-| Tue | - Code TopIPConsole.jsx (Top 10 IPs, filter by protocol, terminal effect) | 10/06/2026 | 10/06/2026 | |
-| Wed | - Build App.jsx: Router, 3 tabs, ProtectedRoute component | 11/06/2026 | 11/06/2026 | React Router |
-| Thu | - Add micro-animations (fade-in, slide-in), blur gradient background effects | 12/06/2026 | 12/06/2026 | TailwindCSS |
-| Fri | - E2E test entire Web App: Login → Dashboard → Security → Traffic | 13/06/2026 | 13/06/2026 | |
+| Mon | - Code AttackMap.jsx (map showing attack IP locations by geo_location) | 08/06/2026 | 08/06/2026 | |
+| Tue | - Code TopIPConsole.jsx (Top 10 IPs, filter by protocol, terminal effect) | 09/06/2026 | 09/06/2026 | |
+| Wed | - Build App.jsx: Router, 3 tabs, ProtectedRoute component | 10/06/2026 | 10/06/2026 | React Router |
+| Thu | - Add micro-animations (fade-in, slide-in), blur gradient background effects | 11/06/2026 | 11/06/2026 | TailwindCSS |
+| Fri | - E2E test entire Web App: Login → Dashboard → Security → Traffic | 12/06/2026 | 12/06/2026 | |
 
 ### Results achieved:
 

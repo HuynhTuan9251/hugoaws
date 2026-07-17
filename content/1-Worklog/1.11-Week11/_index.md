@@ -15,11 +15,11 @@ pre: " <b> 1.11.11. </b> "
 ### Tasks implemented this week:
 | Day | Task | Start Date | End Date | References |
 | --- | --- | --- | --- | --- |
-| Mon | - Install @aws-sdk/client-athena into Backend Node.js | 30/06/2026 | 30/06/2026 | AWS SDK v3 |
-| Tue | - Code queryAthena() function to get Top REJECTED IPs from Backend | 01/07/2026 | 01/07/2026 | |
-| Wed | - Capture screenshots: EC2, VPC, S3, Lambda, Firehose, Athena, QuickSight, GuardDuty | 02/07/2026 | 02/07/2026 | AWS Console |
-| Thu | - Clone Hugo template (fcj-workshop-template), start writing Workshop | 03/07/2026 | 03/07/2026 | Hugo Docs |
-| Fri | - Write sections 5.1 (Overview) and 5.2 (Prerequisites) for Workshop | 04/07/2026 | 04/07/2026 | |
+| Mon | - Install @aws-sdk/client-athena into Backend Node.js | 29/06/2026 | 29/06/2026 | AWS SDK v3 |
+| Tue | - Code queryAthena() function to get Top REJECTED IPs from Backend | 30/06/2026 | 30/06/2026 | |
+| Wed | - Capture screenshots: EC2, VPC, S3, Lambda, Firehose, Athena, QuickSight, GuardDuty | 01/07/2026 | 01/07/2026 | AWS Console |
+| Thu | - Clone Hugo template (fcj-workshop-template), start writing Workshop | 02/07/2026 | 02/07/2026 | Hugo Docs |
+| Fri | - Write sections 5.1 (Overview) and 5.2 (Prerequisites) for Workshop | 03/07/2026 | 03/07/2026 | |
 
 ### Results achieved:
 

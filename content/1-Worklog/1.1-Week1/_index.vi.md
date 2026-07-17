@@ -16,11 +16,11 @@ pre: " <b> 1.1.1. </b> "
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Tham gia buổi Kick-off, làm quen các thành viên FCAJ<br>- Đọc quy định tại đơn vị thực tập | 21/04/2026 | 21/04/2026 | Tài liệu nội bộ |
-| 3 | - Tìm hiểu tổng quan AWS: Compute (EC2), Storage (S3), Networking (VPC) | 22/04/2026 | 22/04/2026 | AWS Documentation |
-| 4 | - Tạo tài khoản AWS Free Tier<br>- Cài đặt AWS CLI, cấu hình `aws configure` | 23/04/2026 | 23/04/2026 | AWS Getting Started |
-| 5 | - Tìm hiểu EC2: Instance types, AMI, Security Groups | 24/04/2026 | 24/04/2026 | AWS EC2 Docs |
-| 6 | - Thực hành: Tạo EC2 Instance (t3.micro), kết nối SSH | 25/04/2026 | 25/04/2026 | Hands-on Lab |
+| 2 | - Tham gia buổi Kick-off, làm quen các thành viên FCAJ<br>- Đọc quy định tại đơn vị thực tập | 20/04/2026 | 20/04/2026 | Tài liệu nội bộ |
+| 3 | - Tìm hiểu tổng quan AWS: Compute (EC2), Storage (S3), Networking (VPC) | 21/04/2026 | 21/04/2026 | AWS Documentation |
+| 4 | - Tạo tài khoản AWS Free Tier<br>- Cài đặt AWS CLI, cấu hình `aws configure` | 22/04/2026 | 22/04/2026 | AWS Getting Started |
+| 5 | - Tìm hiểu EC2: Instance types, AMI, Security Groups | 23/04/2026 | 23/04/2026 | AWS EC2 Docs |
+| 6 | - Thực hành: Tạo EC2 Instance (t3.micro), kết nối SSH | 24/04/2026 | 24/04/2026 | Hands-on Lab |
 
 ### Kết quả đạt được:
 

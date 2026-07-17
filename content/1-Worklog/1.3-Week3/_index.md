@@ -15,11 +15,11 @@ pre: " <b> 1.3.3. </b> "
 ### Tasks implemented this week:
 | Day | Task | Start Date | End Date | References |
 | --- | --- | --- | --- | --- |
-| Mon | - Write Proposal: Executive Summary, Problem Statement | 05/05/2026 | 05/05/2026 | |
-| Tue | - Write Proposal: Technical Solution, Hybrid Architecture | 06/05/2026 | 06/05/2026 | |
-| Wed | - Design Architecture Diagram on draw.io (9 AWS services) | 07/05/2026 | 07/05/2026 | draw.io |
-| Thu | - Research IAM: Create IAM User, attach Policy, create Lambda Role | 08/05/2026 | 08/05/2026 | AWS IAM Docs |
-| Fri | - Finalize Proposal and submit to Mentor for review | 09/05/2026 | 09/05/2026 | |
+| Mon | - Write Proposal: Executive Summary, Problem Statement | 04/05/2026 | 04/05/2026 | |
+| Tue | - Write Proposal: Technical Solution, Hybrid Architecture | 05/05/2026 | 05/05/2026 | |
+| Wed | - Design Architecture Diagram on draw.io (9 AWS services) | 06/05/2026 | 06/05/2026 | draw.io |
+| Thu | - Research IAM: Create IAM User, attach Policy, create Lambda Role | 07/05/2026 | 07/05/2026 | AWS IAM Docs |
+| Fri | - Finalize Proposal and submit to Mentor for review | 08/05/2026 | 08/05/2026 | |
 
 ### Results achieved:
 

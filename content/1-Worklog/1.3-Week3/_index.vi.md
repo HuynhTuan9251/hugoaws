@@ -15,11 +15,11 @@ pre: " <b> 1.3.3. </b> "
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Viết Proposal: Tóm tắt điều hành, Tuyên bố vấn đề | 05/05/2026 | 05/05/2026 | |
-| 3 | - Viết Proposal: Giải pháp kỹ thuật, Kiến trúc Hybrid | 06/05/2026 | 06/05/2026 | |
-| 4 | - Thiết kế Architecture Diagram trên draw.io (9 dịch vụ AWS) | 07/05/2026 | 07/05/2026 | draw.io |
-| 5 | - Nghiên cứu IAM: Tạo IAM User, gán Policy, tạo Role cho Lambda | 08/05/2026 | 08/05/2026 | AWS IAM Docs |
-| 6 | - Hoàn thiện Proposal và nộp cho Mentor review | 09/05/2026 | 09/05/2026 | |
+| 2 | - Viết Proposal: Tóm tắt điều hành, Tuyên bố vấn đề | 04/05/2026 | 04/05/2026 | |
+| 3 | - Viết Proposal: Giải pháp kỹ thuật, Kiến trúc Hybrid | 05/05/2026 | 05/05/2026 | |
+| 4 | - Thiết kế Architecture Diagram trên draw.io (9 dịch vụ AWS) | 06/05/2026 | 06/05/2026 | draw.io |
+| 5 | - Nghiên cứu IAM: Tạo IAM User, gán Policy, tạo Role cho Lambda | 07/05/2026 | 07/05/2026 | AWS IAM Docs |
+| 6 | - Hoàn thiện Proposal và nộp cho Mentor review | 08/05/2026 | 08/05/2026 | |
 
 ### Kết quả đạt được:
 

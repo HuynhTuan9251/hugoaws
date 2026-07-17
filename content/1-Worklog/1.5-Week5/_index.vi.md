@@ -15,11 +15,11 @@ pre: " <b> 1.5.5. </b> "
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Code API: GET /api/dashboard/overview (KPI tổng quan) | 19/05/2026 | 19/05/2026 | |
-| 3 | - Code API: GET /api/security/alerts, GET /api/dashboard/map | 20/05/2026 | 20/05/2026 | |
-| 4 | - Code API: GET /api/dashboard/protocols, /infrastructure/health | 21/05/2026 | 21/05/2026 | |
-| 5 | - Xây dựng hàm seedDatabase() tự động bơm 6 Alert + 200 TrafficLog | 22/05/2026 | 22/05/2026 | |
-| 6 | - Viết Blog 1: Tối ưu chi phí Big Data Log bằng S3 và Kinesis Firehose | 23/05/2026 | 23/05/2026 | |
+| 2 | - Code API: GET /api/dashboard/overview (KPI tổng quan) | 18/05/2026 | 18/05/2026 | |
+| 3 | - Code API: GET /api/security/alerts, GET /api/dashboard/map | 19/05/2026 | 19/05/2026 | |
+| 4 | - Code API: GET /api/dashboard/protocols, /infrastructure/health | 20/05/2026 | 20/05/2026 | |
+| 5 | - Xây dựng hàm seedDatabase() tự động bơm 6 Alert + 200 TrafficLog | 21/05/2026 | 21/05/2026 | |
+| 6 | - Viết Blog 1: Tối ưu chi phí Big Data Log bằng S3 và Kinesis Firehose | 22/05/2026 | 22/05/2026 | |
 
 ### Kết quả đạt được:
 

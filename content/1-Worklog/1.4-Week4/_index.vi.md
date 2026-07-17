@@ -15,11 +15,11 @@ pre: " <b> 1.4.4. </b> "
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Khởi tạo dự án Node.js, cài đặt Express, Mongoose, bcryptjs, jsonwebtoken | 12/05/2026 | 12/05/2026 | npm |
-| 3 | - Thiết kế 3 MongoDB Schema: User, Alert, TrafficLog | 13/05/2026 | 13/05/2026 | Mongoose Docs |
-| 4 | - Code API đăng nhập: POST /api/auth/login với JWT Token | 14/05/2026 | 14/05/2026 | JWT.io |
-| 5 | - Xây dựng middleware phân quyền: verifyToken, checkRole | 15/05/2026 | 15/05/2026 | |
-| 6 | - Thiết kế 4 vai trò (NetAdmin, SecOps, Manager, SystemAdmin) và test RBAC | 16/05/2026 | 16/05/2026 | |
+| 2 | - Khởi tạo dự án Node.js, cài đặt Express, Mongoose, bcryptjs, jsonwebtoken | 11/05/2026 | 11/05/2026 | npm |
+| 3 | - Thiết kế 3 MongoDB Schema: User, Alert, TrafficLog | 12/05/2026 | 12/05/2026 | Mongoose Docs |
+| 4 | - Code API đăng nhập: POST /api/auth/login với JWT Token | 13/05/2026 | 13/05/2026 | JWT.io |
+| 5 | - Xây dựng middleware phân quyền: verifyToken, checkRole | 14/05/2026 | 14/05/2026 | |
+| 6 | - Thiết kế 4 vai trò (NetAdmin, SecOps, Manager, SystemAdmin) và test RBAC | 15/05/2026 | 15/05/2026 | |
 
 ### Kết quả đạt được:
 

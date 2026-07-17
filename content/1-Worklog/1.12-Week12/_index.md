@@ -15,11 +15,11 @@ pre: " <b> 1.12.12. </b> "
 ### Tasks implemented this week:
 | Day | Task | Start Date | End Date | References |
 | --- | --- | --- | --- | --- |
-| Mon | - Write section 5.3 (Web App MERN) and 5.4 (AWS Data Pipeline) | 07/07/2026 | 07/07/2026 | |
-| Tue | - Write section 5.5 (Analytics) and 5.6 (Integrating AWS into Web App) | 08/07/2026 | 08/07/2026 | |
-| Wed | - Write Self-evaluation and Feedback<br>- Insert all AWS screenshots into Workshop | 09/07/2026 | 09/07/2026 | |
-| Thu | - Review entire report, check bilingual content (Vi/En), fix typos | 10/07/2026 | 10/07/2026 | |
-| Fri | - Final check on Hugo website and submit report | 11/07/2026 | 11/07/2026 | |
+| Mon | - Write section 5.3 (Web App MERN) and 5.4 (AWS Data Pipeline) | 06/07/2026 | 06/07/2026 | |
+| Tue | - Write section 5.5 (Analytics) and 5.6 (Integrating AWS into Web App) | 07/07/2026 | 07/07/2026 | |
+| Wed | - Write Self-evaluation and Feedback<br>- Insert all AWS screenshots into Workshop | 08/07/2026 | 08/07/2026 | |
+| Thu | - Review entire report, check bilingual content (Vi/En), fix typos | 09/07/2026 | 09/07/2026 | |
+| Fri | - Final check on Hugo website and submit report | 10/07/2026 | 10/07/2026 | |
 
 ### Results achieved:
 

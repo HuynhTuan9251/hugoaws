@@ -15,11 +15,11 @@ pre: " <b> 1.5.5. </b> "
 ### Tasks implemented this week:
 | Day | Task | Start Date | End Date | References |
 | --- | --- | --- | --- | --- |
-| Mon | - Code API: GET /api/dashboard/overview (KPI overview) | 19/05/2026 | 19/05/2026 | |
-| Tue | - Code API: GET /api/security/alerts, GET /api/dashboard/map | 20/05/2026 | 20/05/2026 | |
-| Wed | - Code API: GET /api/dashboard/protocols, /infrastructure/health | 21/05/2026 | 21/05/2026 | |
-| Thu | - Build seedDatabase() function to auto-generate 6 Alerts + 200 TrafficLogs | 22/05/2026 | 22/05/2026 | |
-| Fri | - Write Blog 1: Cost Optimization for Big Data Logs with S3 and Kinesis Firehose | 23/05/2026 | 23/05/2026 | |
+| Mon | - Code API: GET /api/dashboard/overview (KPI overview) | 18/05/2026 | 18/05/2026 | |
+| Tue | - Code API: GET /api/security/alerts, GET /api/dashboard/map | 19/05/2026 | 19/05/2026 | |
+| Wed | - Code API: GET /api/dashboard/protocols, /infrastructure/health | 20/05/2026 | 20/05/2026 | |
+| Thu | - Build seedDatabase() function to auto-generate 6 Alerts + 200 TrafficLogs | 21/05/2026 | 21/05/2026 | |
+| Fri | - Write Blog 1: Cost Optimization for Big Data Logs with S3 and Kinesis Firehose | 22/05/2026 | 22/05/2026 | |
 
 ### Results achieved:
 

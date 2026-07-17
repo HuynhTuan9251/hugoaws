@@ -15,11 +15,11 @@ pre: " <b> 1.11.11. </b> "
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Cài đặt @aws-sdk/client-athena vào Backend Node.js | 30/06/2026 | 30/06/2026 | AWS SDK v3 |
-| 3 | - Code hàm queryAthena() gọi từ Backend lấy Top IP bị REJECT | 01/07/2026 | 01/07/2026 | |
-| 4 | - Chụp ảnh minh họa: EC2, VPC, S3, Lambda, Firehose, Athena, QuickSight, GuardDuty | 02/07/2026 | 02/07/2026 | AWS Console |
-| 5 | - Clone Hugo template (fcj-workshop-template), bắt đầu viết Workshop | 03/07/2026 | 03/07/2026 | Hugo Docs |
-| 6 | - Viết phần 5.1 (Tổng quan) và 5.2 (Prerequisites) cho Workshop | 04/07/2026 | 04/07/2026 | |
+| 2 | - Cài đặt @aws-sdk/client-athena vào Backend Node.js | 29/06/2026 | 29/06/2026 | AWS SDK v3 |
+| 3 | - Code hàm queryAthena() gọi từ Backend lấy Top IP bị REJECT | 30/06/2026 | 30/06/2026 | |
+| 4 | - Chụp ảnh minh họa: EC2, VPC, S3, Lambda, Firehose, Athena, QuickSight, GuardDuty | 01/07/2026 | 01/07/2026 | AWS Console |
+| 5 | - Clone Hugo template (fcj-workshop-template), bắt đầu viết Workshop | 02/07/2026 | 02/07/2026 | Hugo Docs |
+| 6 | - Viết phần 5.1 (Tổng quan) và 5.2 (Prerequisites) cho Workshop | 03/07/2026 | 03/07/2026 | |
 
 ### Kết quả đạt được:
 

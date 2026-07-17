@@ -15,11 +15,11 @@ pre: " <b> 1.6.6. </b> "
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Khởi tạo dự án React bằng Vite, cài TailwindCSS | 26/05/2026 | 26/05/2026 | Vite Docs |
-| 3 | - Code trang Login.jsx với hiệu ứng Dark Theme, Glassmorphism | 27/05/2026 | 27/05/2026 | |
-| 4 | - Xây dựng AuthContext.jsx (quản lý JWT token, trạng thái đăng nhập) | 28/05/2026 | 28/05/2026 | React Context API |
-| 5 | - Code Sidebar.jsx (menu điều hướng 3 tab: Dashboard, Security, Traffic) | 29/05/2026 | 29/05/2026 | Lucide React Icons |
-| 6 | - Code KPICards.jsx và TrafficChart.jsx (biểu đồ đường Recharts) | 30/05/2026 | 30/05/2026 | Recharts |
+| 2 | - Khởi tạo dự án React bằng Vite, cài TailwindCSS | 25/05/2026 | 25/05/2026 | Vite Docs |
+| 3 | - Code trang Login.jsx với hiệu ứng Dark Theme, Glassmorphism | 26/05/2026 | 26/05/2026 | |
+| 4 | - Xây dựng AuthContext.jsx (quản lý JWT token, trạng thái đăng nhập) | 27/05/2026 | 27/05/2026 | React Context API |
+| 5 | - Code Sidebar.jsx (menu điều hướng 3 tab: Dashboard, Security, Traffic) | 28/05/2026 | 28/05/2026 | Lucide React Icons |
+| 6 | - Code KPICards.jsx và TrafficChart.jsx (biểu đồ đường Recharts) | 29/05/2026 | 29/05/2026 | Recharts |
 
 ### Kết quả đạt được:
 

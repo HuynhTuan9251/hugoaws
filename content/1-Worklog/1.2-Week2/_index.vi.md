@@ -15,11 +15,11 @@ pre: " <b> 1.2.2. </b> "
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Tìm hiểu VPC: Subnet (Public/Private), Route Table, Internet Gateway | 28/04/2026 | 28/04/2026 | AWS VPC Docs |
-| 3 | - Cấu hình Security Group và Network ACL cho EC2 | 29/04/2026 | 29/04/2026 | AWS Networking |
-| 4 | - Tìm hiểu S3: Tạo Bucket, upload file, cấu hình Bucket Policy | 30/04/2026 | 30/04/2026 | AWS S3 Docs |
-| 5 | - Nghiên cứu S3 Storage Classes (Standard, IA, Glacier) | 01/05/2026 | 01/05/2026 | AWS S3 Docs |
-| 6 | - Brainstorm ý tưởng dự án: SOC Dashboard + AWS Data Pipeline | 02/05/2026 | 02/05/2026 | |
+| 2 | - Tìm hiểu VPC: Subnet (Public/Private), Route Table, Internet Gateway | 27/04/2026 | 27/04/2026 | AWS VPC Docs |
+| 3 | - Cấu hình Security Group và Network ACL cho EC2 | 28/04/2026 | 28/04/2026 | AWS Networking |
+| 4 | - Tìm hiểu S3: Tạo Bucket, upload file, cấu hình Bucket Policy | 29/04/2026 | 29/04/2026 | AWS S3 Docs |
+| 5 | - Nghiên cứu S3 Storage Classes (Standard, IA, Glacier) | 30/04/2026 | 30/04/2026 | AWS S3 Docs |
+| 6 | - Brainstorm ý tưởng dự án: SOC Dashboard + AWS Data Pipeline | 01/05/2026 | 01/05/2026 | |
 
 ### Kết quả đạt được:
 

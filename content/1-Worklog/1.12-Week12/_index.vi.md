@@ -15,11 +15,11 @@ pre: " <b> 1.12.12. </b> "
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Viết phần 5.3 (Web App MERN) và 5.4 (AWS Data Pipeline) | 07/07/2026 | 07/07/2026 | |
-| 3 | - Viết phần 5.5 (Analytics) và 5.6 (Tích hợp AWS vào Web App) | 08/07/2026 | 08/07/2026 | |
-| 4 | - Viết phần Self-evaluation và Feedback<br>- Chèn tất cả ảnh minh họa AWS vào Workshop | 09/07/2026 | 09/07/2026 | |
-| 5 | - Review toàn bộ báo cáo, kiểm tra song ngữ (Vi/En), sửa lỗi chính tả | 10/07/2026 | 10/07/2026 | |
-| 6 | - Kiểm tra lần cuối trên Hugo website và nộp báo cáo | 11/07/2026 | 11/07/2026 | |
+| 2 | - Viết phần 5.3 (Web App MERN) và 5.4 (AWS Data Pipeline) | 06/07/2026 | 06/07/2026 | |
+| 3 | - Viết phần 5.5 (Analytics) và 5.6 (Tích hợp AWS vào Web App) | 07/07/2026 | 07/07/2026 | |
+| 4 | - Viết phần Self-evaluation và Feedback<br>- Chèn tất cả ảnh minh họa AWS vào Workshop | 08/07/2026 | 08/07/2026 | |
+| 5 | - Review toàn bộ báo cáo, kiểm tra song ngữ (Vi/En), sửa lỗi chính tả | 09/07/2026 | 09/07/2026 | |
+| 6 | - Kiểm tra lần cuối trên Hugo website và nộp báo cáo | 10/07/2026 | 10/07/2026 | |
 
 ### Kết quả đạt được:
 

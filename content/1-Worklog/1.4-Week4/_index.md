@@ -15,11 +15,11 @@ pre: " <b> 1.4.4. </b> "
 ### Tasks implemented this week:
 | Day | Task | Start Date | End Date | References |
 | --- | --- | --- | --- | --- |
-| Mon | - Initialize Node.js project, install Express, Mongoose, bcryptjs, jsonwebtoken | 12/05/2026 | 12/05/2026 | npm |
-| Tue | - Design 3 MongoDB Schemas: User, Alert, TrafficLog | 13/05/2026 | 13/05/2026 | Mongoose Docs |
-| Wed | - Code login API: POST /api/auth/login with JWT Token | 14/05/2026 | 14/05/2026 | JWT.io |
-| Thu | - Build authorization middleware: verifyToken, checkRole | 15/05/2026 | 15/05/2026 | |
-| Fri | - Design 4 roles (NetAdmin, SecOps, Manager, SystemAdmin) and test RBAC | 16/05/2026 | 16/05/2026 | |
+| Mon | - Initialize Node.js project, install Express, Mongoose, bcryptjs, jsonwebtoken | 11/05/2026 | 11/05/2026 | npm |
+| Tue | - Design 3 MongoDB Schemas: User, Alert, TrafficLog | 12/05/2026 | 12/05/2026 | Mongoose Docs |
+| Wed | - Code login API: POST /api/auth/login with JWT Token | 13/05/2026 | 13/05/2026 | JWT.io |
+| Thu | - Build authorization middleware: verifyToken, checkRole | 14/05/2026 | 14/05/2026 | |
+| Fri | - Design 4 roles (NetAdmin, SecOps, Manager, SystemAdmin) and test RBAC | 15/05/2026 | 15/05/2026 | |
 
 ### Results achieved:
 

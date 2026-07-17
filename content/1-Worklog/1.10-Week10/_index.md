@@ -15,11 +15,11 @@ pre: " <b> 1.10.10. </b> "
 ### Tasks implemented this week:
 | Day | Task | Start Date | End Date | References |
 | --- | --- | --- | --- | --- |
-| Mon | - Create Athena Database and Table pointing to S3 Data Lake | 23/06/2026 | 23/06/2026 | AWS Athena Docs |
-| Tue | - Run test SQL query: SELECT srcAddr, COUNT(*) ... WHERE action='REJECT' | 24/06/2026 | 24/06/2026 | |
-| Wed | - Register QuickSight, connect Data Source with Athena | 25/06/2026 | 25/06/2026 | AWS QuickSight |
-| Thu | - Create QuickSight Dashboard: IP bar chart, Protocol pie chart | 26/06/2026 | 26/06/2026 | |
-| Fri | - Write Blog 3: Automated Cloud Security Monitoring with Amazon GuardDuty | 27/06/2026 | 27/06/2026 | |
+| Mon | - Create Athena Database and Table pointing to S3 Data Lake | 22/06/2026 | 22/06/2026 | AWS Athena Docs |
+| Tue | - Run test SQL query: SELECT srcAddr, COUNT(*) ... WHERE action='REJECT' | 23/06/2026 | 23/06/2026 | |
+| Wed | - Register QuickSight, connect Data Source with Athena | 24/06/2026 | 24/06/2026 | AWS QuickSight |
+| Thu | - Create QuickSight Dashboard: IP bar chart, Protocol pie chart | 25/06/2026 | 25/06/2026 | |
+| Fri | - Write Blog 3: Automated Cloud Security Monitoring with Amazon GuardDuty | 26/06/2026 | 26/06/2026 | |
 
 ### Results achieved:
 

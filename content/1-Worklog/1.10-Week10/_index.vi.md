@@ -15,11 +15,11 @@ pre: " <b> 1.10.10. </b> "
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Tạo Athena Database và Table trỏ về S3 Data Lake | 23/06/2026 | 23/06/2026 | AWS Athena Docs |
-| 3 | - Chạy query SQL test: SELECT srcAddr, COUNT(*) ... WHERE action='REJECT' | 24/06/2026 | 24/06/2026 | |
-| 4 | - Đăng ký QuickSight, kết nối Data Source với Athena | 25/06/2026 | 25/06/2026 | AWS QuickSight |
-| 5 | - Tạo Dashboard trên QuickSight: Biểu đồ cột IP, biểu đồ tròn Protocol | 26/06/2026 | 26/06/2026 | |
-| 6 | - Viết Blog 3: Giám sát an ninh đám mây bằng Amazon GuardDuty | 27/06/2026 | 27/06/2026 | |
+| 2 | - Tạo Athena Database và Table trỏ về S3 Data Lake | 22/06/2026 | 22/06/2026 | AWS Athena Docs |
+| 3 | - Chạy query SQL test: SELECT srcAddr, COUNT(*) ... WHERE action='REJECT' | 23/06/2026 | 23/06/2026 | |
+| 4 | - Đăng ký QuickSight, kết nối Data Source với Athena | 24/06/2026 | 24/06/2026 | AWS QuickSight |
+| 5 | - Tạo Dashboard trên QuickSight: Biểu đồ cột IP, biểu đồ tròn Protocol | 25/06/2026 | 25/06/2026 | |
+| 6 | - Viết Blog 3: Giám sát an ninh đám mây bằng Amazon GuardDuty | 26/06/2026 | 26/06/2026 | |
 
 ### Kết quả đạt được:
 

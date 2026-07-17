@@ -16,11 +16,11 @@ pre: " <b> 1.1.1. </b> "
 ### Tasks implemented this week:
 | Day | Task | Start Date | End Date | References |
 | --- | --- | --- | --- | --- |
-| Mon | - Attend Kick-off session, meet FCAJ members<br>- Read internship regulations | 21/04/2026 | 21/04/2026 | Internal docs |
-| Tue | - Learn AWS overview: Compute (EC2), Storage (S3), Networking (VPC) | 22/04/2026 | 22/04/2026 | AWS Documentation |
-| Wed | - Create AWS Free Tier account<br>- Install AWS CLI, configure `aws configure` | 23/04/2026 | 23/04/2026 | AWS Getting Started |
-| Thu | - Learn EC2: Instance types, AMI, Security Groups | 24/04/2026 | 24/04/2026 | AWS EC2 Docs |
-| Fri | - Practice: Create EC2 Instance (t3.micro), SSH connection | 25/04/2026 | 25/04/2026 | Hands-on Lab |
+| Mon | - Attend Kick-off session, meet FCAJ members<br>- Read internship regulations | 20/04/2026 | 20/04/2026 | Internal docs |
+| Tue | - Learn AWS overview: Compute (EC2), Storage (S3), Networking (VPC) | 21/04/2026 | 21/04/2026 | AWS Documentation |
+| Wed | - Create AWS Free Tier account<br>- Install AWS CLI, configure `aws configure` | 22/04/2026 | 22/04/2026 | AWS Getting Started |
+| Thu | - Learn EC2: Instance types, AMI, Security Groups | 23/04/2026 | 23/04/2026 | AWS EC2 Docs |
+| Fri | - Practice: Create EC2 Instance (t3.micro), SSH connection | 24/04/2026 | 24/04/2026 | Hands-on Lab |
 
 ### Results achieved:
 

@@ -15,11 +15,11 @@ pre: " <b> 1.2.2. </b> "
 ### Tasks implemented this week:
 | Day | Task | Start Date | End Date | References |
 | --- | --- | --- | --- | --- |
-| Mon | - Learn VPC: Subnet (Public/Private), Route Table, Internet Gateway | 28/04/2026 | 28/04/2026 | AWS VPC Docs |
-| Tue | - Configure Security Group and Network ACL for EC2 | 29/04/2026 | 29/04/2026 | AWS Networking |
-| Wed | - Learn S3: Create Bucket, upload files, configure Bucket Policy | 30/04/2026 | 30/04/2026 | AWS S3 Docs |
-| Thu | - Research S3 Storage Classes (Standard, IA, Glacier) | 01/05/2026 | 01/05/2026 | AWS S3 Docs |
-| Fri | - Brainstorm project idea: SOC Dashboard + AWS Data Pipeline | 02/05/2026 | 02/05/2026 | |
+| Mon | - Learn VPC: Subnet (Public/Private), Route Table, Internet Gateway | 27/04/2026 | 27/04/2026 | AWS VPC Docs |
+| Tue | - Configure Security Group and Network ACL for EC2 | 28/04/2026 | 28/04/2026 | AWS Networking |
+| Wed | - Learn S3: Create Bucket, upload files, configure Bucket Policy | 29/04/2026 | 29/04/2026 | AWS S3 Docs |
+| Thu | - Research S3 Storage Classes (Standard, IA, Glacier) | 30/04/2026 | 30/04/2026 | AWS S3 Docs |
+| Fri | - Brainstorm project idea: SOC Dashboard + AWS Data Pipeline | 01/05/2026 | 01/05/2026 | |
 
 ### Results achieved:
 

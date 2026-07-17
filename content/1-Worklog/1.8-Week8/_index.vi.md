@@ -15,11 +15,11 @@ pre: " <b> 1.8.8. </b> "
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Code AttackMap.jsx (bản đồ hiển thị vị trí IP tấn công theo geo_location) | 09/06/2026 | 09/06/2026 | |
-| 3 | - Code TopIPConsole.jsx (Top 10 IP, lọc theo protocol, hiệu ứng terminal) | 10/06/2026 | 10/06/2026 | |
-| 4 | - Xây dựng App.jsx: Router, 3 tab, ProtectedRoute component | 11/06/2026 | 11/06/2026 | React Router |
-| 5 | - Thêm micro-animation (fade-in, slide-in), hiệu ứng blur gradient nền | 12/06/2026 | 12/06/2026 | TailwindCSS |
-| 6 | - Test toàn bộ Web App E2E: Login → Dashboard → Security → Traffic | 13/06/2026 | 13/06/2026 | |
+| 2 | - Code AttackMap.jsx (bản đồ hiển thị vị trí IP tấn công theo geo_location) | 08/06/2026 | 08/06/2026 | |
+| 3 | - Code TopIPConsole.jsx (Top 10 IP, lọc theo protocol, hiệu ứng terminal) | 09/06/2026 | 09/06/2026 | |
+| 4 | - Xây dựng App.jsx: Router, 3 tab, ProtectedRoute component | 10/06/2026 | 10/06/2026 | React Router |
+| 5 | - Thêm micro-animation (fade-in, slide-in), hiệu ứng blur gradient nền | 11/06/2026 | 11/06/2026 | TailwindCSS |
+| 6 | - Test toàn bộ Web App E2E: Login → Dashboard → Security → Traffic | 12/06/2026 | 12/06/2026 | |
 
 ### Kết quả đạt được:
 
