@@ -5,5 +5,13 @@ weight: 3
 chapter: false
 pre: " <b> 3. </b> "
 ---
-# Danh sách 3 bài Blogs về AWS
-Dưới đây là 3 bài blog tôi đã nghiên cứu và chia sẻ lên AWS Study Group trong quá trình thực tập.
+
+# Các bài blogs đã đăng
+
+Đây là danh sách các bài viết mình đã chia sẻ trên cộng đồng [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj) trong quá trình thực tập.
+
+1. **[Blog 1: AI có thể tự kiểm thử game với Amazon Bedrock](3.1-Blog1/)** — Điều mình học được sau khi đọc bài viết của AWS về việc xây dựng AI Game Testing Agent với Amazon Bedrock.
+
+2. **[Blog 2: Tạo tài nguyên 3D cho game bằng AI mã nguồn mở trên AWS](3.2-Blog2/)** — Điều mình học được sau khi đọc bài viết của AWS về việc tạo tài nguyên 3D bằng AI mã nguồn mở.
+
+3. **[Blog 3: Hypermonk Games và nền tảng phân tích dữ liệu game trên AWS](3.3-Blog3/)** — Điều mình học được sau khi đọc bài viết của AWS về kiến trúc Data Pipeline của Hypermonk Games.
