@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Major:** Software Engineer
 
-&emsp; **Class:** AWS082025
+&emsp; **Class:** 22DTHD6
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 

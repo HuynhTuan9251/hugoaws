@@ -18,7 +18,7 @@ chapter: false
 
 &emsp; **Ngành:** Software Engineer
 
-&emsp; **Lớp:** AWS082025
+&emsp; **Lớp:** 22DTHD6
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
 
