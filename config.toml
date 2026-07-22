@@ -1,4 +1,4 @@
-baseURL = "https://workshop-sample.awsfcaj.com/"
+baseURL = "https://huynhtuan9251.github.io/hugoaws/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"

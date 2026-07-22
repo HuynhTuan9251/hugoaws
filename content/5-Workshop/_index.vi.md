@@ -22,3 +22,5 @@ Mục tiêu của dự án: Chứng minh khả năng thiết kế một kiến t
 5. [Phân tích & Giám sát bảo mật](5.5-Analytics/)
 6. [Tích hợp AWS vào Web App](5.6-WebIntegration/)
 7. [Dọn dẹp tài nguyên](5.7-Cleanup/)
+8. [Demo dự án](5.8-Demo/)
+
